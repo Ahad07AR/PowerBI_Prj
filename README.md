@@ -1,4 +1,6 @@
 # PowerBI_Project
+![Screenshot 2024-10-06 193301](https://github.com/user-attachments/assets/285a8c70-6316-4af3-a0c8-b5c9c79bd2b0)
+
 
 ### Ecommerce Sales Data Analysis using Power BI
 
